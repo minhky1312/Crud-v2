@@ -1,0 +1,77 @@
+
+s
+java:S11928"QDefine a constant instead of duplicating this literal "connect failure!" 3 times.(çœŠ…şÿÿÿÿ8¯Ø†“ÿ.
+e
+java:S2095¸"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÏÜ¦¹8İøÚ’ÿ.
+k
+java:S2095Å"HUse try-with-resources or close this "Connection" in a "finally" clause.(½ëÉúÿÿÿÿ8¯Ø†“ÿ.
+v
+java:S3008"TRename this field "USER_NAME" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ƒëæ‚ıÿÿÿÿ8¶óæ‘ÿ.
+K
+java:S1604×"(Make this anonymous inner class a lambda(—¸–Óøÿÿÿÿ8´°–ÿ.
+K
+java:S2115#")Add password protection to this database.(½ëÉúÿÿÿÿ8²Şê‘ÿ.
+?
+java:S1116Ã"Remove this empty statement.(›îÉ‡üÿÿÿÿ8æØÙÿ.
+[	java:S106Ò"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ8¯Ø†“ÿ.
+:
+java:S1116"Remove this empty statement.(³‹¿8ÀŸÄÿ.
+N
+java:S1481¦"+Remove this unused "column" local variable.(Ø„è”ıÿÿÿÿ8—ïÿæş.
+c
+java:S1192H"FDefine a constant instead of duplicating this literal "Serif" 5 times.(øÆ8…Æ“ÿ.
+J
+java:S1481Ü"'Remove this unused "id" local variable.(ùç–—ûÿÿÿÿ8¢Éìÿ.
+d
+java:S2095$"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÏÜ¦¹8²Şê‘ÿ.
+:
+java:S1116„"Remove this empty statement.(´‡Ì›8ÀŸÄÿ.
+p	java:S100"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(½óÇˆÿÿÿÿÿ8ĞëÌ’ÿ.
+j
+java:S2095#"HUse try-with-resources or close this "Connection" in a "finally" clause.(½ëÉúÿÿÿÿ8²Şê‘ÿ.
+E
+java:S1604ê"(Make this anonymous inner class a lambda(››ıi8ö”èÿ.
+\
+java:S1128"@Remove this unused import 'javax.swing.table.TableCellRenderer'.(É¡“8“Ö¼ÿ.
+n
+java:S3008"QRename this field "DB_URL" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ä¾¼¥8¶óæ‘ÿ.
+e
+java:S2095Æ"GUse try-with-resources or close this "Statement" in a "finally" clause.(ÏÜ¦¹8¯Ø†“ÿ.
+?
+java:S1116Î"Remove this empty statement.(´ÙŒşÿÿÿÿ8ÈÇÿ.
+k
+java:S2095·"HUse try-with-resources or close this "Connection" in a "finally" clause.(½ëÉúÿÿÿÿ8İøÚ’ÿ.
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ8²Şê‘ÿ.
+e
+java:S3252A"IUse static access with "javax.swing.WindowConstants" for "EXIT_ON_CLOSE".(ºÀœx8—ïÿæş.
+^	java:S125à"<This block of commented-out lines of code should be removed.(¹ã®¾ÿÿÿÿÿ8¼¬Çÿ.
+L
+java:S2115Å")Add password protection to this database.(½ëÉúÿÿÿÿ8¯Ø†“ÿ.
+v
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(ƒƒÄ8›Òÿæş.
+m	java:S117D"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(À„ñì8—ïÿæş.
+p
+java:S3008"SRename this field "PASSWORD" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨Ëâ†8¶óæ‘ÿ.
+X	java:S125"<This block of commented-out lines of code should be removed.(¹œÏÒ8ğ¿À’ÿ.
+9
+java:S1116o"Remove this empty statement.(Òû—8…ä±ÿ.
+F
+java:S1604ú"(Make this anonymous inner class a lambda(İû˜ù8ĞëÌ’ÿ.
+c
+java:S1128"ARemove this unused import 'javax.swing.table.AbstractTableModel'.(““öıÿÿÿÿ8˜óÁÿ.
+L
+java:S2115·")Add password protection to this database.(½ëÉúÿÿÿÿ8İøÚ’ÿ.
+F
+java:S1604†"(Make this anonymous inner class a lambda(ÚØú§8ĞëÌ’ÿ.
+:
+java:S1116­"Remove this empty statement.(ÿóâ¼8—ïÿæş.
+X	java:S110"<This class has 6 parents which is greater than 5 authorized.(¨´İ³8Ó”¹äş.
+[
+java:S1197¦"8Move the array designator from the variable to the type.(Ø„è”ıÿÿÿÿ8—ïÿæş.
+[	java:S106¾"9Replace this use of System.out or System.err by a logger.(çœŠ…şÿÿÿÿ8İøÚ’ÿ.
+l
+java:S1192\"JDefine a constant instead of duplicating this literal "Khu vá»±c" 3 times.(Èİïøÿÿÿÿ8·»šÿ.
+9
+java:S1116z"Remove this empty statement.(Œ“ÃÍ8şª¿ÿ.
+?
+java:S1116¸"Remove this empty statement.(Ì·âƒıÿÿÿÿ8£¶Ìÿ.
